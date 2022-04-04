@@ -1,6 +1,6 @@
 {
   "name": "@alethea-medical/cap-usb-camera",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "description": "UVC Camera support for capacitor apps.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -12,11 +12,14 @@
     "dist/",
     "PeriksaCapUsbCamera.podspec"
   ],
-  "contributors": [{
-    "name": "Alethea-Medical"
-  },{
-    "name": "evangunawan"
-  }],
+  "contributors": [
+    {
+      "name": "Alethea-Medical"
+    },
+    {
+      "name": "evangunawan"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
